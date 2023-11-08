@@ -1,0 +1,4 @@
+F:/IMT Itida/ARecordings/ITIDA/Cmake/Project/SnakeEffect_cmake/lib/out/CMakeFiles/DIO.dir
+F:/IMT Itida/ARecordings/ITIDA/Cmake/Project/SnakeEffect_cmake/lib/out/CMakeFiles/move.dir
+F:/IMT Itida/ARecordings/ITIDA/Cmake/Project/SnakeEffect_cmake/lib/out/CMakeFiles/edit_cache.dir
+F:/IMT Itida/ARecordings/ITIDA/Cmake/Project/SnakeEffect_cmake/lib/out/CMakeFiles/rebuild_cache.dir
